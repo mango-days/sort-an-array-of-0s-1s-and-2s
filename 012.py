@@ -16,5 +16,5 @@ while i <= j :
             array [ j ] = 1
         else : j -= 1
     else : i += 1
-for index in range ( 0 , count_2 ) : array .insert ( i , 2 )
+for index in range ( 0 , count_2 ) : array.append ( 2 )
 print ( array )
